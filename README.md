@@ -3,6 +3,10 @@
 This README provides an overview of the project, including how to set it up and run it on macOS, as well as a brief description of the project.
 This repository has the code used for the Final Paper Submission from the Statistical Method of Causal Inference course from Vrije Universitet Amsterdam. It is a project made by Dudley Díaz and Emma Klasse. 
 
+For detailed information please refer to the final report in PDF (`results/SMCI Final Assessment.pdf`).
+
+You will find instructions to run the project, but there are a PDF and HTML files that show the code and the results too. Both can be found on the `results` folder.
+
 ## Project Description
 
 This project investigates the impact of physical exercise on perceived stress levels among Canadian university students using Coarsened Exact Matching (CEM) and other statistical techniques. The goal is to determine whether higher levels of exercise are associated with reduced perceived stress. The analysis involves matching participants on covariates such as age, sex, ethnicity, international student status, and study program to create balanced treatment and control groups. The primary outcome variable is perceived stress, measured using the Perceived Stress Scale (PSS). Ordinary Least Squares (OLS) regression is used to estimate the treatment effect, and sensitivity analysis is performed to assess the robustness of the findings.
@@ -78,7 +82,7 @@ To run this project on macOS, you will need the following software installed:
 
 ## Project Structure
 
-- **data**: Contains the dataset used for the analysis (`02_Student_Mental_Health_2021-10-10.csv`).
+- **data**: Contains the dataset used for the analysis (`02_Student_Mental_Health_2021-10-10.csv`). It also contains a detailed descriptions of the dataset `data/00_ReadMe file_Student_Mental_Health_2022-02-21.pdf` and the mental health scoring.
 - **notebooks**: Contains the Jupyter Notebook (`matching.ipynb`) with the analysis code.
 - **results**: Contains the output files, including the final assessment PDF (`SMCI Final Assessment.pdf`).
 
