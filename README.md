@@ -1,4 +1,4 @@
-# Causal Stress Research
+# Causal Stress Project
 
 This README provides an overview of the project, including how to set it up and run it on macOS, as well as a brief description of the project.
 This repository has the code used for the Final Paper Submission from the Statistical Method of Causal Inference course from Vrije Universitet Amsterdam. It is a project made by Dudley Díaz and Emma Klasse. 
